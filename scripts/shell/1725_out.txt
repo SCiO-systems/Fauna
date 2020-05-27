@@ -1,0 +1,79 @@
+[[1]]
+[[1]]$value
+function (dir_dssat, out_dir) 
+{
+    rutinas <- "*.WDA|*.SDA|MODEL.ERR|DSSATPRO.L47|*.CDE"
+    files <- "BNGRO047.CUL|BNGRO047.ECO|BNGRO047.SPE"
+    exe_dssat <- paste0(dir_dssat, "./dscsm047")
+    parameters <- paste0(dir_dssat, "Genotype/") %>% list.files(full.names = T) %>% 
+        filter_text(files, different = F)
+    rutines_files <- dir_dssat %>% list.files(full.names = T) %>% 
+        filter_text(rutinas, different = F)
+    file.copy(exe_dssat, out_dir)
+    file.copy(parameters, out_dir)
+    file.copy(rutines_files, out_dir)
+}
+
+[[1]]$visible
+[1] FALSE
+
+
+[[2]]
+[[2]]$value
+function (crop, name, filename) 
+{
+    outbatch <- rbind(rbind(paste0("$BATCH(", crop, ")"), "!", 
+        cbind(sprintf("%6s %92s %6s %6s %6s %6s", "@FILEX", "TRTNO", 
+            "RP", "SQ", "OP", "CO"))), cbind(sprintf("%6s %86s %6i %6i %6i %6i", 
+        paste0(name), 1, 1, 0, 1, 0)))
+    write(outbatch, file = filename, append = F)
+}
+
+[[2]]$visible
+[1] FALSE
+
+
+[[3]]
+[[3]]$value
+function (x, out_dir) 
+{
+    write_lines(x, path = paste0(out_dir, "SOIL.SOL"))
+}
+
+[[3]]$visible
+[1] FALSE
+
+
+[[4]]
+[[4]]$value
+function (data, out_dir, lat, long, co2, name_xfile_climate) 
+{
+    data <- data %>% mutate(Date = anydate(Date), jday = yday(Date), 
+        jday = sprintf("%.3d", jday), year_dssat = str_sub(year, 
+            start = 3)) %>% mutate(date_dssat = paste0(year_dssat, 
+        jday))
+    Srad <- data$srad
+    Tmax <- data$tmax
+    Tmin <- data$tmin
+    Prec <- data$prec_bias_correction
+    date <- data$date_dssat
+    sink(paste0(out_dir, name_xfile_climate, ".WTH"), append = F)
+    cat(paste("*WEATHER DATA :"), paste("USAID"))
+    cat("\n")
+    cat("\n")
+    cat(c("@ INSI      LAT     LONG  ELEV   TAV   AMP REFHT WNDHT CO2"))
+    cat("\n")
+    cat(sprintf("%6s %8.3f %8.3f %5.0f %5.1f %5.1f %5.2f %5.2f %5.2f", 
+        "USCI", lat, long, -99, -99, -99, 0, 0, co2))
+    cat("\n")
+    cat(c("@DATE  SRAD  TMAX  TMIN  RAIN"))
+    cat("\n")
+    cat(cbind(sprintf("%5s %5.1f %5.1f %5.1f %5.1f", date, Srad, 
+        Tmax, Tmin, Prec)), sep = "\n")
+    sink()
+}
+
+[[4]]$visible
+[1] FALSE
+
+

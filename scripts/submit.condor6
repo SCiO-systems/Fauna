@@ -1,0 +1,10 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+Rank = (machine == "CLIMATE.ciat.cgiar.org")
+executable      = /bin/bash
+arguments       =  tax_ugan.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_out.txt
+error                   = $(Cluster)_err.txt
+log                     = $(Cluster)_log.txt
+queue 1

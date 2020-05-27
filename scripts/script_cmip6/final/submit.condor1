@@ -1,0 +1,11 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+executable      = /bin/bash
+arguments       = monmean_fut_ec1.sh
+when_to_transfer_output = ON_EXIT
+output                  = out_1.txt
+error                   = err_1.txt
+log                     = log_1.txt
+request_cpus            = 1
+request_memory          = 19GB
+queue 1

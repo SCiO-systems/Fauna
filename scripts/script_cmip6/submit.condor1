@@ -1,0 +1,11 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+executable      = /bin/bash
+arguments       =  bcc_csm2_hist_pr.sh
+when_to_transfer_output = ON_EXIT
+output                  = out_bcHi.txt
+error                   = err_bcHi.txt
+log                     = log_bcHi.txt
+request_cpus            = 1
+request_memory          = 9GB
+queue 1

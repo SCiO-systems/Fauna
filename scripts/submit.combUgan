@@ -1,0 +1,11 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+executable      = /bin/bash
+arguments       =  convert2nc_tz.sh
+when_to_transfer_output = ON_EXIT
+output                  = out_cvTz.txt
+error                   = err_cvTz.txt
+log                     = log_cvTz.txt
+request_cpus            = 1
+request_memory          = 40.9GB
+queue 1

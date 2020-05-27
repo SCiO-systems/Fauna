@@ -1,0 +1,12 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+Rank = (machine == "CARIBE.ciat.cgiar.org")  || (machine == "ECLIPSE.ciat.cgiar.org")
+executable      = /bin/bash
+arguments       =  create_ethi2.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_out.txt
+error                   = $(Cluster)_err.txt
+log                     = $(Cluster)_log.txt
+request_cpus            = 1
+request_memory          = 123.9GB
+queue 1

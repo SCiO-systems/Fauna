@@ -1,0 +1,1 @@
+Rscript bias_cor_Ethi_prec_new.R

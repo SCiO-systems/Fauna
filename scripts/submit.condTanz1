@@ -1,0 +1,12 @@
+universe        = docker
+docker_image    = dapaciat/bbaco_tpe1
+Rank = (machine == "CLIMATE.ciat.cgiar.org") || (machine == "CARIBE.ciat.cgiar.org")  || (machine == "ECLIPSE.ciat.cgiar.org")
+executable      = /bin/bash
+arguments       =  dssat_Tanz_4748.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_out.txt
+error                   = $(Cluster)_err.txt
+log                     = $(Cluster)_log.txt
+request_cpus            = 4
+request_memory          = 55.9GB
+queue 1

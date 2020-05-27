@@ -1,0 +1,12 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:Dasst
+Rank = (machine == "CLIMATE.ciat.cgiar.org") || (machine == "CARIBE.ciat.cgiar.org")  || (machine == "ECLIPSE.ciat.cgiar.org")
+executable      = /bin/bash
+arguments       =  yield_tanz_mod.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_out.txt
+error                   = $(Cluster)_err.txt
+log                     = $(Cluster)_log.txt
+request_cpus            = 1
+request_memory          = 49.9GB
+queue 1

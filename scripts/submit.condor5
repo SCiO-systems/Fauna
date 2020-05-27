@@ -1,0 +1,12 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:DSSAT2
+Rank = (machine == "CLIMATE.ciat.cgiar.org")
+executable      = /bin/bash
+arguments       =  dssat.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_out.txt
+error                   = $(Cluster)_err.txt
+log                     = $(Cluster)_log.txt
+request_cpus            = 1
+request_memory          = 59.9GB
+queue 1

@@ -1,0 +1,3650 @@
+A DSSAT-CSM executable was found here:
+
+  
+
+If this is not the correct executable, please use
+
+  options(DSSAT.CSM="//path/to/executable")
+
+ to set the proper location and file name for DSSAT-CSM.
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:dplyr’:
+
+    intersect, setdiff, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Warning: 2 parsing failures.
+row   col  expected    actual         file
+  1 SNAME 27 chars  24        literal data
+  1 NA    9 columns 8 columns literal data
+
+Error in names(.) <- c("PEDON", "SOURCE", "TEXTURE", "DEPTH", "DESCRIPTION") : 
+  'names' attribute [5] must be the same length as the vector [0]
+Calls: read_sol ... withVisible -> eval -> eval -> _fseq -> freduce -> <Anonymous>
+In addition: Warning messages:
+1: In sink() : Problem closing connection:  Input/output error
+2: In close.connection(path) :
+  Problem closing connection:  Input/output error
+Execution halted

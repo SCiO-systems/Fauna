@@ -1,0 +1,11 @@
+universe        = docker
+docker_image    = dapaciat/r_3.6.0:latest
+executable      = /bin/bash
+arguments       = ec_earth_hist_pr.sh
+when_to_transfer_output = ON_EXIT
+output                  = out_2.txt
+error                   = err_2.txt
+log                     = log_2.txt
+request_cpus            = 1
+request_memory          = 20GB
+queue 1

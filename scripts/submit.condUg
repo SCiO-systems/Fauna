@@ -1,0 +1,14 @@
+universe        = docker
+#docker_image    = jhap/dssat1
+docker_image    = dapaciat/bbaco_tpe1:Dasst
+Rank = (machine == "CLIMATE.ciat.cgiar.org") || (machine == "CARIBE.ciat.cgiar.org")  || (machine == "ECLIPSE.ciat.cgiar.org")
+executable      = /bin/bash
+#arguments       =  dssat_ug_mod.sh
+arguments       =  tt.sh
+when_to_transfer_output = ON_EXIT
+output                  = $(Cluster)_$(chunk)_out.txt
+error                   = $(Cluster)_$(chunk)_err.txt
+log                     = $(Cluster)_$(chunk)_log.txt
+request_cpus            = 1
+request_memory          = 8GB
+queue 1
