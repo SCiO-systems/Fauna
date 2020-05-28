@@ -1,3 +1,4 @@
 #!/bin/bash
-Rscript $'t2.R' ${chk} ${i} 
+Rscript $'t2.R' ${chk} ${i}
+'kani dekh hi na' 
 
