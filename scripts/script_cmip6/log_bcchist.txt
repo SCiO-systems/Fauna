@@ -1,6 +1,0 @@
-009 (1112.000.000) 02/28 11:34:34 Job was aborted by the user.
-	via condor_rm (by user pjha)
-...
-009 (1112.001.000) 02/28 11:34:46 Job was aborted by the user.
-	via condor_rm (by user pjha)
-...
